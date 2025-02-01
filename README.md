@@ -47,11 +47,6 @@
 * 喜欢钻研技术 等等
 * 性格开朗，喜欢跳舞，做个主持人 等等
 
-## Word版领取方式
-
-**Word版本的简历，添加代码随想录企业微信，通过之后就会发你word版本**。
-
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20240328164645.png" data-img="1" width="200" height="200"></img></div>
 
 如果已经有代码随想录企业微信，直接回复：简历模板，就可以了。
 
